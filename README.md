@@ -6,7 +6,7 @@ I'm a self-taught data engineer based in Nigeria. Not still sure what exactly a 
 Python · SQL · Linux · Docker · dbt · AWS · Azure · DuckDB 
 
 ## Projects
-- **[movies-pipeline]([link](https://github.com/Sed-DE/movies_pipeline))**: IMDb + TMDB data extracted with Python, loaded into DuckDB, modelled with dbt (staging → marts → reporting).
+- **[movies-pipeline]((https://github.com/Sed-DE/movies_pipeline))**: IMDb + TMDB data extracted with Python, loaded into DuckDB, modelled with dbt (staging → marts → reporting).
 
 ## Work with me
 I take on freelance pipeline work for early-stage teams. Reach me at sedisthename@gmail.com or on [LinkedIn]([link](https://www.linkedin.com/in/se-daeti-ime-502975411/)).
