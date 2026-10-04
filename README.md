@@ -1,6 +1,8 @@
 # Hi, I'm Sed.
 
-I'm a self-taught data engineer based in Nigeria. Not still sure what exactly a data engineer does but I know it has something to do with building data pipelines so that's what I learnt to do.
+I'm a self-taught data engineer based in Nigeria. 
+
+Not still sure what exactly a data engineer does but I know it has something to do with building data pipelines so that's what I learnt to do.
 
 ## What I work with
 Python · SQL · Linux · Docker · dbt · AWS · Azure · DuckDB 
